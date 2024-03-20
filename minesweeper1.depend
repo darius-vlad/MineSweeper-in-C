@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1672779576 source:c:\users\darius\documents\proiecte info\minesweeper1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"minesweeper.h"
+
+1672779425 c:\users\darius\documents\proiecte info\minesweeper1\minesweeper.h
+
+1672779598 source:c:\users\darius\documents\proiecte info\minesweeper1\minesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"minesweeper.h"
+
